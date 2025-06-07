@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sidhartha</h1>
 <h3 align="center">A passionate Full Stack Developer with focus on AI and Machine Learning</h3>
 
-![Motivational Manga](image1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alearner12&label=Profile%20views&color=0e75b6&style=flat" alt="Alearner12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alearner12&theme=radical" alt="Alearner12" /></a> </p>
 
-- 🔭 I'm currently working on **GenerativeAI using Langchain and Supervised Machine Learning**
 
 - 🌱 I'm currently learning **NestJS and Machine Learning**
 
@@ -15,11 +12,11 @@
 
 - 🤝 I'm looking for help with **Backend Development And AI**
 
-- 💬 Ask me about **Telegram Bots, Full Stack Web Development, Python, Data Analytics and GenerativeAI**
+- 💬 Ask me about **Full Stack Web Development, Python, Data Analytics and deeplearning**
 
 - 📫 How to reach me **siddharthtiwari155@yahoo.com**
 
-- ⚡ Fun fact **I have no Enemies**
+- ⚡ Fun fact **I have no enemies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
