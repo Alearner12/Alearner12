@@ -47,8 +47,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alearner12&show_icons=true&locale=en&theme=radical" alt="Alearner12" /></p>
 
-<p><img align="center" src="https://github-streak-stats.herokuapp.com/?user=Alearner12&theme=radical" alt="Alearner12" /></p>
-
 > "Fight."
 
 <!-- 
